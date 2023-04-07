@@ -1,10 +1,16 @@
 ## Resolução de Exercícios <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-Este é um repositório para armazenar a resolução de 41 exercícios de programação. O objetivo é fornecer soluções simples e eficazes para problemas comuns em diferentes áreas da programação.
+Este é um repositório para armazenar a resolução de mais de 50 exercícios de lógica de programação e condicionais. O objetivo é fornecer soluções simples e eficazes para problemas comuns em diferentes áreas da programação.
 
 As soluções aqui presentes foram desenvolvidas por Marcus Vincius e podem ser utilizadas livremente para fins educacionais e de aprendizado.
 
 ## Estrutura do Repositório
-Os exercícios estão todos no arquivo exercicio_secao05.py, cada exercicio tem seu respectivo enunciado e logo a baixo a solução comentada, para ver a solução basta descomentar o código tirando as 3 aspas do começo e do fim do respectivo exercício
+Os exercícios estão separados em 2 arquivos.
+
+1- exercicios_secao04.py -- São 53 Exercícios apenas de Lógica de Programação
+
+2- exercicios_secao05.py -- São 41 Exercícios de Lógica e Condicionais (If, Elif e Else)
+
+Cada exercicio tem seu respectivo enunciado e logo a baixo a solução comentada, para ver a solução basta descomentar o código tirando as 3 aspas do começo e do fim do respectivo exercício
 
 ## Contribuindo
 Contribuições são bem-vindas e encorajadas. Se você deseja adicionar suas próprias soluções ou corrigir algum erro em uma solução existente, por favor abra um pull request com as mudanças propostas.
